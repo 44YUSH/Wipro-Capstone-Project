@@ -32,6 +32,3 @@ This project demonstrates how **Linux system maintenance** can be automated effi
 ✅ **Installer Script** – Handles setup, directory creation, and permissions automatically.  
 
 ---
-
-## 🗂️ Project Structure
-
